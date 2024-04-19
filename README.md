@@ -38,7 +38,10 @@ Chosun University (2018.03 ~ 2024.02)
 🙋‍♂️ [**Portfolio**](https://github.com/dragon0622/dragon0622)
 
 💾 [**Blog**](https://velog.io/@iamdragon/posts)
-
+### 3 most recent posts
+- [무조건 알자! 스프링 어노테이션!](https://velog.io/@iamdragon/%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%95%8C%EC%9E%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98)
+- [무조건 알자! 스프링 어노테이션! 2](https://velog.io/@iamdragon/%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%95%8C%EC%9E%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98-2)
+- [mybatis 에러](https://velog.io/@iamdragon/mybatis-%EC%97%90%EB%9F%AC-org.apache.ibatis.binding.BindingException)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragon0622&theme=dark)
 
