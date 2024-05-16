@@ -7,6 +7,7 @@ Estsoft ormi (2024.01.02 ~ 2024.05.17)
   - 4th Backend Track
     - FE프로젝트 장려상 : https://github.com/dragon0622/FE-Practice-Assignment
     - 중간 프로젝트 : https://github.com/Team-404WeFound/404WeFound
+    - 최종 프로젝트 : https://github.com/paldo-tourism/paldo-tourism
     
 Chosun University (2018.03 ~ 2024.02)
   - Information & Communication
