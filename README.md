@@ -17,6 +17,7 @@ Chosun University (2018.03 ~ 2024.02)
 - Springboot
 - BackEnd Development
 - Algorithm
+- DataBase
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=milk5137)](https://solved.ac/milk5137/)
 
@@ -24,6 +25,7 @@ Chosun University (2018.03 ~ 2024.02)
 ## 🌱 I’m currently learning ...
 - Spring
 - RDBMS
+- DataBase
 
 ## 🛠️ Skills
 <div> 
