@@ -13,11 +13,9 @@ Chosun University (2018.03 ~ 2024.02)
   - Information & Communication
  
 ## 😁 Interested in
-- Spring
-- Springboot
 - BackEnd Development
 - Algorithm
-- DataBase
+- CleanCode
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=milk5137)](https://solved.ac/milk5137/)
 
