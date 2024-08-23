@@ -44,11 +44,9 @@ Chosun University (2018.03 ~ 2024.02)
 
 
 ### 5 most recent posts
-- [무조건 알자! 스프링 어노테이션! 2](https://velog.io/@iamdragon/%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%95%8C%EC%9E%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98-2)
-- [오르미4기 - 중간 프로젝트](https://velog.io/@iamdragon/%EC%98%A4%EB%A5%B4%EB%AF%B8-4%EA%B8%B0-%EC%A4%91%EA%B0%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
-- [SQLD 과목1 제 1장](https://velog.io/@iamdragon/SQLD-%EA%B3%BC%EB%AA%A91)
-- [SQLD 과목1 제 2장](https://velog.io/@iamdragon/SQLD-%EA%B3%BC%EB%AA%A91-4y8u2ea8)
-- [5~6월 회고](https://velog.io/@iamdragon/5%EC%9B%94%EB%A7%906%EC%9B%94)
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragon0622&theme=dark)
 
