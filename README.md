@@ -45,11 +45,11 @@ Chosun University (2018.03 ~ 2024.02)
 
 ### 5 most recent posts
 <!-- BLOG-POST-LIST:START -->
+- [ResponseEntity 사용법 / Http.Status](https://velog.io/@iamdragon/ResponseEntity-%EC%82%AC%EC%9A%A9%EB%B2%95-Http.Status)
 - [UUID, Bearer 등등](https://velog.io/@iamdragon/UUID-Bearer-%EB%93%B1%EB%93%B1)
 - [ERD](https://velog.io/@iamdragon/ERD)
 - [Amazone ECS](https://velog.io/@iamdragon/Amazone-ECS)
 - [Docker](https://velog.io/@iamdragon/Docker)
-- [Kafka](https://velog.io/@iamdragon/Kafka)
 <!-- BLOG-POST-LIST:END -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragon0622&theme=dark)
