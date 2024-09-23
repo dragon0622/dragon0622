@@ -8,6 +8,9 @@ Estsoft ormi (2024.01.02 ~ 2024.05.17)
     - FE프로젝트 장려상 : https://github.com/dragon0622/FE-Practice-Assignment
     - 중간 프로젝트 : https://github.com/Team-404WeFound/404WeFound
     - 최종 프로젝트 : https://github.com/paldo-tourism/paldo-tourism
+
+Team  Sparta (2024.07.29 ~ ing -2024.10.25 종료 예정)
+  - 1th Advanced Java Track
     
 Chosun University (2018.03 ~ 2024.02)
   - Information & Communication
