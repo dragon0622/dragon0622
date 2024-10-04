@@ -1,6 +1,6 @@
 # Hi there! I'm Jeongyoung Kim 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdragon0622&count_bg=%237FB8FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 누군가의 롤모델이 될 때까지 ! </br>
-Contact : iamdragon.dev@gmail.com / 010-6241-5137
+Contact : iamdragon.dev@gmail.com
 
 ## 👨‍🎓 Education
 Estsoft ormi (2024.01.02 ~ 2024.05.17)
