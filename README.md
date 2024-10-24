@@ -75,11 +75,11 @@ Chosun University (2018.03 ~ 2024.02)
 
 ### 5 most recent posts
 <!-- BLOG-POST-LIST:START -->
- [msa 인증인가 2](https://velog.io/@iamdragon/msa-%EC%9D%B8%EC%A6%9D%EC%9D%B8%EA%B0%80-2)</br>
- [msa 인증인가 1](https://velog.io/@iamdragon/msa-%EC%9D%B8%EC%A6%9D%EC%9D%B8%EA%B0%80)</br>
- [즐거운 코드리뷰](https://velog.io/@iamdragon/%EC%A6%90%EA%B1%B0%EC%9A%B4-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0)</br>
- [ResponseEntity 사용법 / Http.Status](https://velog.io/@iamdragon/ResponseEntity-%EC%82%AC%EC%9A%A9%EB%B2%95-Http.Status)</br>
- [UUID, Bearer 등등](https://velog.io/@iamdragon/UUID-Bearer-%EB%93%B1%EB%93%B1)
+- [msa 인증인가 2](https://velog.io/@iamdragon/msa-%EC%9D%B8%EC%A6%9D%EC%9D%B8%EA%B0%80-2)
+- [msa 인증인가 1](https://velog.io/@iamdragon/msa-%EC%9D%B8%EC%A6%9D%EC%9D%B8%EA%B0%80)
+- [즐거운 코드리뷰](https://velog.io/@iamdragon/%EC%A6%90%EA%B1%B0%EC%9A%B4-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0)
+- [ResponseEntity 사용법 / Http.Status](https://velog.io/@iamdragon/ResponseEntity-%EC%82%AC%EC%9A%A9%EB%B2%95-Http.Status)
+- [UUID, Bearer 등등](https://velog.io/@iamdragon/UUID-Bearer-%EB%93%B1%EB%93%B1)
 <!-- BLOG-POST-LIST:END -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=milk5137)](https://solved.ac/milk5137/)
