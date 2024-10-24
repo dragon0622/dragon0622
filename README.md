@@ -2,6 +2,11 @@
 누군가의 롤모델이 될 때까지 ! </br>
 Contact : iamdragon.dev@gmail.com
 
+
+
+[![Github](https://www.codenary.co.kr/widget/github/api?username=김정용)](https://www.codenary.co.kr/user-profile/detail/김정용?github_ride=true&utm_source=github)
+
+
 ## 👨‍🎓 Education
 Estsoft ormi (2024.01.02 ~ 2024.05.17)
   - 4th Backend Track
@@ -22,9 +27,6 @@ Chosun University (2018.03 ~ 2024.02)
 - MSA
 - CleanCode
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=milk5137)](https://solved.ac/milk5137/)
-
-
 ## 🌱 I’m currently learning ...
 - Spring
 - RDBMS
@@ -56,8 +58,4 @@ Chosun University (2018.03 ~ 2024.02)
 - [UUID, Bearer 등등](https://velog.io/@iamdragon/UUID-Bearer-%EB%93%B1%EB%93%B1)
 <!-- BLOG-POST-LIST:END -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragon0622&theme=dark)
-
-
-<!--[Jeongyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragon0622&show_icons=true&theme=dark)-->
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=milk5137)](https://solved.ac/milk5137/)
