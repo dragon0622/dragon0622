@@ -43,6 +43,25 @@ Chosun University (2018.03 ~ 2024.02)
 
 </div>
 
+<b>- backend :
+![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java) 
+![spring](https://www.codenary.co.kr/widget/github-techstack/api?name=spring) 
+![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot)
+
+<b> - db :
+![postgresql](https://www.codenary.co.kr/widget/github-techstack/api?name=postgresql)
+![mysql](https://www.codenary.co.kr/widget/github-techstack/api?name=mysql) 
+![redis](https://www.codenary.co.kr/widget/github-techstack/api?name=redis) 
+
+<b> - version Control :
+![github](https://www.codenary.co.kr/widget/github-techstack/api?name=github)
+
+<b> - monitoring :
+![grafana](https://www.codenary.co.kr/widget/github-techstack/api?name=grafana)
+
+<b> - test :
+![junit](https://www.codenary.co.kr/widget/github-techstack/api?name=junit) 
+
 ## 🐉 About me
 🙋‍♂️ [**Portfolio**](https://github.com/dragon0622/dragon0622)
 
