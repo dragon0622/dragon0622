@@ -39,20 +39,16 @@ Chosun University (2018.03 ~ 2024.02)
  DataBase</br>
 
 ## 🛠️ Skills
-<div> 
 
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-</div>
 
 <b> backend :
 ![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java) 
 ![spring](https://www.codenary.co.kr/widget/github-techstack/api?name=spring) 
 ![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot)
+
+<b> frontend :
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 <b>  db :
 ![postgresql](https://www.codenary.co.kr/widget/github-techstack/api?name=postgresql)
