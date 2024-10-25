@@ -71,7 +71,7 @@ Chosun University (2018.03 ~ 2024.02)
 
 <hr>
 
-<div align="center">
+
 
 ### 5 most recent posts
 <!-- BLOG-POST-LIST:START -->
@@ -81,6 +81,8 @@ Chosun University (2018.03 ~ 2024.02)
 - [ResponseEntity 사용법 / Http.Status](https://velog.io/@iamdragon/ResponseEntity-%EC%82%AC%EC%9A%A9%EB%B2%95-Http.Status)
 - [UUID, Bearer 등등](https://velog.io/@iamdragon/UUID-Bearer-%EB%93%B1%EB%93%B1)
 <!-- BLOG-POST-LIST:END -->
+
+<div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=milk5137)](https://solved.ac/milk5137/)
 
