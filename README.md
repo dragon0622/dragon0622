@@ -21,7 +21,7 @@ Estsoft ormi (2024.01.02 ~ 2024.05.17)
     - 중간 프로젝트 : https://github.com/Team-404WeFound/404WeFound
     - 최종 프로젝트 : https://github.com/paldo-tourism/paldo-tourism
 
-Team  Sparta (2024.07.29 ~ ing -2024.10.25 종료 예정)
+Team  Sparta (2024.07.29 ~ ing -2024.10.25)
   - 1th Advanced Java Track
     - first project : -
     - [second project](https://github.com/yong-yong-lee/logistics-delivery)
