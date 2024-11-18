@@ -23,7 +23,7 @@ Estsoft ormi (2024.01.02 ~ 2024.05.17)
 
 Team  Sparta (2024.07.29 ~ ing -2024.10.25)
   - 1th Advanced Java Track
-    - first project : -
+    - [first project](https://github.com/dragon0622/FQS-flexible-queue-service)
     - [second project](https://github.com/yong-yong-lee/logistics-delivery)
     
 Chosun University (2018.03 ~ 2024.02)
