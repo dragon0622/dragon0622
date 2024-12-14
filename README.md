@@ -31,13 +31,15 @@ Chosun University (2018.03 ~ 2024.02)
  
 ## 😁 Interested in
  BackEnd Development </br>
- MSA</br>
- CleanCode</br>
-  
-## 🌱 I’m currently learning ...
  Spring</br>
  RDBMS</br>
  DataBase</br>
+ MSA</br>
+ CleanCode</br>
+  
+## 🌱 Certification
+- 정보처리기사</br>
+- SQLD</br>
 
 ## 🛠️ Skills
 
