@@ -53,7 +53,7 @@ Chosun University (2018.03 ~ 2024.02)
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-<b>  db :
+<b>  Database :
 ![postgresql](https://www.codenary.co.kr/widget/github-techstack/api?name=postgresql)
 ![mysql](https://www.codenary.co.kr/widget/github-techstack/api?name=mysql) 
 ![redis](https://www.codenary.co.kr/widget/github-techstack/api?name=redis) 
