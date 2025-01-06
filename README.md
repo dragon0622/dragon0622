@@ -68,7 +68,6 @@ Chosun University (2018.03 ~ 2024.02)
 ![junit](https://www.codenary.co.kr/widget/github-techstack/api?name=junit) 
 
 ## 🐉 About me
-🙋‍♂️ [**Portfolio**](https://github.com/dragon0622/dragon0622)
 
 💾 [**Blog**](https://velog.io/@iamdragon/posts)
 
