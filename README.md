@@ -2,7 +2,7 @@
 <div align="center">
 </br>
 <b>
-누군가의 롤모델이 될 때까지 ! </br>
+누군가의 롤모델이 될 때까지 ! </br></br>
 
 Contact : iamdragon.dev@gmail.com</b>
 </br>
@@ -44,12 +44,12 @@ Chosun University (2018.03 ~ 2024.02)
 ## 🛠️ Skills
 
 
-<b> backend :
+<b> Backend :
 ![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java) 
 ![spring](https://www.codenary.co.kr/widget/github-techstack/api?name=spring) 
 ![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot)
 
-<b> frontend :
+<b> Frontend :
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
@@ -58,13 +58,13 @@ Chosun University (2018.03 ~ 2024.02)
 ![mysql](https://www.codenary.co.kr/widget/github-techstack/api?name=mysql) 
 ![redis](https://www.codenary.co.kr/widget/github-techstack/api?name=redis) 
 
-<b>  version Control :
+<b>  VersionControl :
 ![github](https://www.codenary.co.kr/widget/github-techstack/api?name=github)
 
-<b>  monitoring :
+<b>  Monitoring :
 ![grafana](https://www.codenary.co.kr/widget/github-techstack/api?name=grafana)
 
-<b>  test :
+<b>  Test :
 ![junit](https://www.codenary.co.kr/widget/github-techstack/api?name=junit) 
 
 ## 🐉 About me
