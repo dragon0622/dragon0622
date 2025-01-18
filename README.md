@@ -77,11 +77,11 @@ Chosun University (2018.03 ~ 2024.02)
 
 ### 5 most recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring, CS 공부 내용 2](https://velog.io/@iamdragon/Spring-CS-%EA%B3%B5%EB%B6%80-%EB%82%B4%EC%9A%A9-2)
 - [Spring, CS 공부 내용 1](https://velog.io/@iamdragon/Spring-CS-%EA%B3%B5%EB%B6%80-%EB%82%B4%EC%9A%A9-1)
 - [2025](https://velog.io/@iamdragon/2025)
 - [compare override](https://velog.io/@iamdragon/compare-override)
 - [Kafka 2](https://velog.io/@iamdragon/Kafka-2)
-- [디렉토리 아키텍처](https://velog.io/@iamdragon/%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
