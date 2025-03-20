@@ -77,11 +77,11 @@ Chosun University (2018.03 ~ 2024.02)
 
 ### 5 most recent posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring, CS 공부 내용 15](https://velog.io/@iamdragon/Spring-CS-%EA%B3%B5%EB%B6%80-%EB%82%B4%EC%9A%A9-15)
 - [Spring, CS 공부 내용 14](https://velog.io/@iamdragon/Spring-CS-%EA%B3%B5%EB%B6%80-%EB%82%B4%EC%9A%A9-14)
 - [Spring, CS 공부 내용 13](https://velog.io/@iamdragon/Spring-CS-%EA%B3%B5%EB%B6%80-%EB%82%B4%EC%9A%A9-13-8lptf9v7)
 - [Spring, CS 공부 내용 12](https://velog.io/@iamdragon/Spring-CS-%EA%B3%B5%EB%B6%80-%EB%82%B4%EC%9A%A9-12)
 - [Spring, CS 공부 내용 11](https://velog.io/@iamdragon/Spring-CS-%EA%B3%B5%EB%B6%80-%EB%82%B4%EC%9A%A9-11)
-- [Spring, CS 공부 내용 10](https://velog.io/@iamdragon/Spring-CS-%EA%B3%B5%EB%B6%80-%EB%82%B4%EC%9A%A9-10)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
